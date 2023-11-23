@@ -1,0 +1,6 @@
+CREATE DATABASE harshith;
+
+USE harshith;
+
+SHOW DATABASES;
+
